@@ -6,7 +6,7 @@
 
 ##Tabelle
 | Stadt | Land | Sprache |
-|:------|:----:|--------:|
+|:------|:----:|-----:|
 | Basel | Belgien | JavaScript |
 | Bern | Brasilien | Python |
 *kursiv* **fett**
